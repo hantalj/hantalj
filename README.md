@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jozsef, a software developer.
-- 👀 Favourite activities are coding (Python, Java, Android) and calisthenics mixed up with some weightlifting.
+- 👀 Favourite activities are coding (Python, C#, Java, Android) and calisthenics mixed up with some weightlifting.
 - 🌱 I’m currently learning Android and Python and diving into Vue.js to improve my HTML and JavaScript
 - 📫 How to reach me: hantalj@gmail.com
 
