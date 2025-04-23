@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jozsef, a software developer.
-- 👀 Favourite activities are coding (Python, C#, Java, Android) and calisthenics mixed up with some weightlifting.
-- 🌱 I’m currently learning Android and Python and diving into Vue.js to improve my HTML and JavaScript
+- 👀 Favourite activities are coding (Python, C#) and calisthenics mixed up with some weightlifting.
+- 🌱 I work as a Site Reliability Engineer at Finbourne (finbourne.com) and go to sleep and get up with Prometheus/Grafana/OpsGenie trinity.
 - 📫 How to reach me: hantalj@gmail.com
 
 <!---
